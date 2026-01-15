@@ -1,0 +1,2 @@
+1 1 income 20000.00 2026-01-5 salary
+2 1 expense 5000.00 2026-01-7 vara
