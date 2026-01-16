@@ -1,2 +1,9 @@
 1 1 income 20000.00 2026-01-5 salary
 2 1 expense 5000.00 2026-01-7 vara
+3 1 income 1000.00 2026-01-16 extra
+4 2 income 20000.00 2026-01-15 salary 1st manth
+5 2 expense 2000.00 2026-01-15 baasa vara
+6 3 income 25000.00 2026-01-01 salary and bonas
+7 3 expense 5000.00 2026-15- 
+8 3 income 25000.00 2026-01-02 salary and comission
+9 3 expense 7000.00 2026-01-15 basa vara
